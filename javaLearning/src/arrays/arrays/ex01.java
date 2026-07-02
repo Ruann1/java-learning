@@ -38,5 +38,6 @@ public class ex01{
 			System.out.println(i + ":" +vetor[i].getNome() + ", " + vetor[i].getEmail());
 			}
 		}
+		Quartos.
 	} 
 }
